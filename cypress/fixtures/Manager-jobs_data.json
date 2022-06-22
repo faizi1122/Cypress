@@ -1,0 +1,25 @@
+{
+    "searchJob": {
+        "projectManagerDemographicsSection": "Project Manager Demographics",
+        "searchJob": "Quality Assurance",
+        "job": "Quality Assurance Analyst",
+        "progressBar": [
+            "66.3%",
+            "29.6%",
+            "4%"
+        ],
+        "progressValue": [
+            "66.3",
+            "29.6",
+            "4.0"
+        ],
+        "compareProgressValue": [
+            "45.3",
+            "50.3",
+            "4.4"
+        ]
+    },
+    "topColleges": {
+        "heading": "Top Colleges for Project Managers"
+    }
+}

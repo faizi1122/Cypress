@@ -1,0 +1,16 @@
+{
+    "searchJob": {
+        "projectManagerDemographicsSection": "h2.h-chart-bar-section--title",
+        "compareJobsDropdownBtn": "#demographics div.filter-carousel  div.zp-filter-button",
+        "searchJob": "#demographics div.filter-carousel [name='jobTitle']",
+        "searchedResults": "ul.dropdown-menu li",
+        "hightlightedText": "ul.dropdown-menu li mark.rbt-highlight-text",
+        "selectedJobDropdownValue": "#demographics div.zp-filter-button.active",
+        "progressBar": "#demographics div.h-chart-bar-list:nth-child(3) div.h-chart-progress-bar-value-percentage",
+        "progressValue": "#demographics div.h-chart-bar-list:nth-child(3) div.h-chart-progress-bar-value",
+        "compareProgressValue": "#demographics div.h-chart-bar-list:nth-child(3) div.h-chart-progress-bar-value-compare"
+    },
+    "topColleges": {
+        "heading": "h2.title-margin-bottom"
+    }
+}
